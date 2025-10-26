@@ -143,6 +143,8 @@ object-fit: fill;
     align-content: center;
     color:azure;
     grid-template-columns: 1fr 1fr 1fr;
+    flex-basis: 50px;
+    border: solid 0.5px;
 }
 .post-footer-2{
     display: flex;
@@ -196,7 +198,6 @@ object-fit: fill;
     flex-direction: column;
     align-items: center;
 }
-=======
 body{
     background-image: "C:\Users\DELL\Desktop\EVA'S ASSIGMENT\IMAGES\mod1.jpg";
     margin: 0;
@@ -395,4 +396,3 @@ object-fit: fill;
     flex-direction: column;
     align-items: center;
 }
->>>>>>> 06879263f27da592240d8cbf72af9027e21ab831
